@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  margin:10px 50px;
+}
+img {
+  width: 80%;
+  height:auto
+}
